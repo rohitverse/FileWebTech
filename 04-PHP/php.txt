@@ -1,0 +1,14 @@
+Introduction
+Datatypes
+Variables
+Comments
+Operators
+Control Statements
+Functions
+PHP with Web Design
+Working with Files
+Uploading a File
+Sessions
+Cookies
+Error Handling
+Database Connectivity with MySQL
