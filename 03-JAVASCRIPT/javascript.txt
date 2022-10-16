@@ -6,3 +6,13 @@ Operators
 Functions
 Basic of jQuery
 AJAX
+
+
+01_introduction.html
+02_datatypes.html
+03_variables.html
+04_comments.html
+05_operators.html
+06_functions.html
+07_jQuery.html
+08_ajax.html
